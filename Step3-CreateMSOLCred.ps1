@@ -1,4 +1,7 @@
-﻿#Uploading the OAUTH certificate on premises to Skype for Business online
+﻿#Developed by Chris Blackburn
+#http://www.memphistech.net
+
+#Uploading the OAUTH certificate on premises to Skype for Business online
 #To create the certificate-based credential
 Connect-MsolService; 
 Import-Module MSOnlineExtended -force

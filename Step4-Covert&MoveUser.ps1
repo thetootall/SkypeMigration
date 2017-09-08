@@ -1,3 +1,6 @@
+#Developed by Chris Blackburn
+#http://www.memphistech.net
+
 $userSIP = Read-Host "Enter user email address to migrate"
 $tenant = Read-host "Enter your vanity domain, including .onmicrosoft.com"
 $frontend = Read-host "Enter your on-prem front end pool"

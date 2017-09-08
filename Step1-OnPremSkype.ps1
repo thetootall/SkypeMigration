@@ -1,4 +1,7 @@
-﻿#Run this from your on-premises Skype for Business Server
+﻿#Developed by Chris Blackburn
+#http://www.memphistech.net
+
+#Run this from your on-premises Skype for Business Server
 Import-module Lync
 
 #First we remove the existing Exchange on-premises partner connections

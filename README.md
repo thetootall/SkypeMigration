@@ -1,5 +1,8 @@
 # SkypeMigration
 
+Developed by Chris Blackburn
+http://www.memphistech.net
+
 This series of scripts will aid in migrating users homed in an on-premises Skype for Business Enterprise Voice environment using Exchange Online to Skype for Business Online.
 
 # Prerequisites

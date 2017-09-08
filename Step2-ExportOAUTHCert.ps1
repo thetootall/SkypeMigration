@@ -1,4 +1,7 @@
-﻿#Using the process on Technet
+﻿#Developed by Chris Blackburn
+#http://www.memphistech.net
+
+#Using the process on Technet
 #https://technet.microsoft.com/en-us/library/mt652109.aspx
 
 $thumbprint = (Get-CsCertificate -type "Oauthtokenissuer").Thumbprint
